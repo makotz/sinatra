@@ -78,3 +78,5 @@ And last but not least:
 
 * [Frank Sinatra](http://www.sinatra.com/) (chairman of the board) for having so much class he
   deserves a web-framework named after him.
+
+And dont forget makoto
